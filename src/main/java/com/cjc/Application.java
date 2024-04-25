@@ -14,4 +14,8 @@ public class Application {
 	{
 		System.out.println("Changed");
 	}
+	public void m2()
+	{
+		System.out.println("Again Changed");
+	}
 }
