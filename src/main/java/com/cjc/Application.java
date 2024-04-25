@@ -9,7 +9,6 @@ public class Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 	}
-
 	public void m1()
 	{
 		System.out.println("Changed");
@@ -17,5 +16,9 @@ public class Application {
 	public void m2()
 	{
 		System.out.println("Again Changed");
+	}
+	public void m3()
+	{
+		System.out.println("New Branch");
 	}
 }
