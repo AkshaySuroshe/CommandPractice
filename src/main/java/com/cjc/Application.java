@@ -21,4 +21,8 @@ public class Application {
 	{
 		System.out.println("New Branch");
 	}
+	public void m4()
+	{
+		System.out.println("New branch gayatri");
+	}
 }
