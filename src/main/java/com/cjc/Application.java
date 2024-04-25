@@ -12,6 +12,6 @@ public class Application {
 
 	public void m1()
 	{
-		
+		System.out.println("Changed");
 	}
 }
